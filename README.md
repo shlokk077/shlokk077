@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shlokk077
 - 👀 I’m interested in indie Game Developnment
-- 🌱 I’m currently learning game developnment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate
 
 <!---
 shlokk077/shlokk077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
